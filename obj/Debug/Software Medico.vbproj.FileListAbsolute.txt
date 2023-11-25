@@ -1,0 +1,33 @@
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software Medico.vbproj.AssemblyReference.cache
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software Medico.vbproj.SuggestedBindingRedirects.cache
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software_Medico.FormularioPrincipal.resources
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software_Medico.Resources.resources
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software Medico.vbproj.GenerateResource.cache
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software Medico.vbproj.CoreCompileInputs.cache
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\Software Medico.exe.config
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\Software Medico.exe
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\Software Medico.pdb
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\Software Medico.xml
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software Medico.exe
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software Medico.xml
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software Medico.pdb
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software_Medico.ABMagenda.resources
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software_Medico.FormularioAgenda.resources
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software_Medico.FormularioPaciente.resources
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\CrystalDecisions.Shared.dll
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\CrystalDecisions.Web.dll
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\FlashControlV71.dll
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\log4net.dll
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Abbas Trabajo Final\Software Medico\Software Medico\bin\Debug\log4net.xml
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software Medico.vbproj.CopyComplete
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software_Medico.ABM_Paciente.resources
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software_Medico.ABM_Estudio.resources
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software_Medico.ABM_Turnos.resources
+C:\Abbas Trabajo Final\Software Medico\Software Medico\obj\Debug\Software_Medico.FormularioTurno.resources
